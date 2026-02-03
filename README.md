@@ -81,18 +81,3 @@ Ensure you do not share your `settings.csv` or `config.json` files publicly, as 
 **Developed with ❤️ by [Edgit13**](https://www.google.com/search?q=https://github.com/Edgit13)
 
 ```
-
----
-
-### How to apply this to your repo:
-1. Open your terminal in your project folder.
-2. Run `nano README.md`.
-3. Paste the text above.
-4. Save and exit (`Ctrl+O`, `Enter`, `Ctrl+X`).
-5. Run these commands to upload it:
-   ```bash
-   git add README.md
-   git commit -m "Add polished README"
-   git push origin main
-
-```
