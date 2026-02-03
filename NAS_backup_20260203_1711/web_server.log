@@ -1,0 +1,5 @@
+NAS OS Web → http://0.0.0.0:8000/menu
+ * Serving Flask app 'NAS_OS-LinuxV--MENU -web'
+ * Debug mode: off
+Address already in use
+Port 8000 is in use by another program. Either identify and stop that program, or start the server with a different port.

@@ -1,0 +1,22 @@
+body {
+    background-color: #000000 !important;
+    color: #00ffff !important;
+    font-family: monospace !important;
+}
+
+.path-link, .file-name {
+    color: #00ffff !important;
+    text-decoration: none !important;
+}
+
+.btn {
+    border: 1px solid #00ffff !important;
+    background: transparent !important;
+    color: #00ffff !important;
+    border-radius: 0px !important;
+}
+
+.btn:hover {
+    background: #00ffff !important;
+    color: #000000 !important;
+}

@@ -1,0 +1,8 @@
+{
+    "logo": "[bold cyan]█▄ █ ▄▀█ █▀   █▀█ █▀[/bold cyan]\n[bold blue]█ ▀█ █▀█ ▄█   █▄█ ▄█[/bold blue] [white]- LinuxV[/white]",
+    "border_color": "bright_blue",
+    "primary_color": "cyan",
+    "accent_color": "magenta",
+    "success_color": "green",
+    "error_color": "red"
+}

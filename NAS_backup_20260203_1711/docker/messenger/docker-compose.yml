@@ -1,0 +1,9 @@
+version: '3'
+services:
+  messenger:
+    image: mattermost/mattermost-preview
+    ports:
+      - "8065:8065"
+    volumes:
+      - ./data:/mattermost/data
+    restart: always
